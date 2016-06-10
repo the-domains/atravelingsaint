@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[atravelingsaint]]></title>
         <description><![CDATA[atravelingsaint]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/atravelingsaint/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 07:28:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 10 Jun 2016 07:28:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/atravelingsaint/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b3a6c39-e2c9-4fff-a039-bfb822ba49d6.jpg">]]></description>
+            <link>https://thegrid.ai/atravelingsaint/f09362e7-8d98-42b7-883e-347e79e2022c/index.html</link>
+            <guid isPermaLink="false">f09362e7-8d98-42b7-883e-347e79e2022c</guid>
+            <pubDate>Fri, 10 Jun 2016 07:28:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/94af7f5c-732e-4655-ac00-f0413e933b13.jpg">]]></description>
-            <link>undefined8bcee64a-fe79-4327-8b4a-80f80d663bb5/index.html</link>
+            <link>https://thegrid.ai/atravelingsaint/8bcee64a-fe79-4327-8b4a-80f80d663bb5/index.html</link>
             <guid isPermaLink="false">8bcee64a-fe79-4327-8b4a-80f80d663bb5</guid>
             <pubDate>Fri, 10 Jun 2016 07:28:04 GMT</pubDate>
         </item>
