@@ -1,7 +1,7 @@
 name: atravelingsaint
 favicon: null
 layout_spectrum: 0.24694
-typography_spectrum: 0
+typography_spectrum: 0.77989
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#ffffff'
+    - '#57544c'
+    - '#251a13'
+    - '#b5b6b0'
+    - '#ce7577'
   brandStrength: 0.7336058563087136
-  lightness: 0.9987714714370668
-  saturation: 0.9174325668718666
-  rhythmicContrast: 0.34716165252029896
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
